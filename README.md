@@ -14,4 +14,4 @@ requests
 [Install Using pip3 install requests]
 ```
 
-# Author: __ybenel
+# Author: _ybenel_

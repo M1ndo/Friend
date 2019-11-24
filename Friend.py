@@ -87,7 +87,7 @@ print("        "+unknown7+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+unknown8+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+unknown9+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"                   "+unknown2+"["+unknown14+"Friend"+unknown5+"]"+unknown+"         ")
-print("     "+purple+"             "+unknown13+"["+unknown8+"Created By ybenel"+unknown2+"]"+unknown10+"    "+Reset+"\n")
+print("     "+purple+"             "+unknown13+"["+unknown8+"  Created By ybenel"+unknown2+"]"+unknown10+"    "+Reset+"\n")
 parse = optparse.OptionParser(unknown +"""
 Usage : python friend.py [Option]
 Options:
@@ -100,7 +100,7 @@ Options:
 |-------------------------------------------------------------------------|
 |----------------------------[Examples]-----------------------------------|
 |-------------------------------------------------------------------------|
-| --------python friend.py -s ybenel@molero.xyz -------------------- |
+| --------python friend.py -s ybenel@pm.me -------------------- |
 |-------------------------------------------------------------------------|
 |-------python friend.py -m ybenel@molero.xyz,ybenel@molero.xyz-----|
 |-------------------------------------------------------------------------|
@@ -167,3 +167,4 @@ def Main():
 
 if __name__=="__main__":
     Main()
+# Done!
